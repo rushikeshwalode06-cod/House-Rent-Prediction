@@ -1,4 +1,4 @@
-# House-Rent-Prediction
+# 🏠 House-Rent-Prediction
 
 House Rent Prediction is a machine learning project that estimates rental prices based on features like location, size, furnishing. It uses regression algorithms to analyze data and provide accurate rent predictions, helping users make informed housing decisions.
 
@@ -11,19 +11,19 @@ This project predicts house rent prices based on various features such as locati
 ![ml](https://github.com/rushikeshwalode06-cod/House-Rent-Prediction/blob/main/House%20Rent%20Price%20Prediction.png?raw=true)
 
 ## 🚀 Features
-1. Predict house rent based on input features
-2. Data preprocessing and cleaning
-3. Exploratory Data Analysis (EDA)
-4. Model training and evaluation
-5. User-friendly prediction system
+* 🏠 Predict house rent based on input features
+* 🧹 Data Preprocessing & Cleaning
+* 📊 Exploratory Data Analysis (EDA)
+* 🤖 Model Training & Evaluation
+* 💻 User-Friendly Prediction System
 
 ## 🧠 Technologies Used
-1. Python 🐍
-2. Pandas
-3. NumPy
-4. Matplotlib / Seaborn
-5. Scikit-learn
-
+* 🐍 Python
+* 🐼 Pandas
+* 🔢 NumPy
+* 📊 Matplotlib / Seaborn
+* 🤖 Scikit-learn
+* 
 ## 📂 Dataset
 
 The dataset includes:
@@ -36,7 +36,7 @@ The dataset includes:
 5. Rent price (target variable)
 
 ## 📊 Machine Learning Models Used
-Linear Regression
+**Linear Regression**
 
 ![ml](https://github.com/rushikeshwalode06-cod/House-Rent-Prediction/blob/main/House%20Rent%20Price%20Graph.png?raw=true)
 
@@ -45,7 +45,7 @@ Linear Regression
 The model is evaluated using:
 R² Score
 
-## 📌 Future Improvements
+## 🚀 Future Improvements
 1. Deploy using Flask / Streamlit
 2. Add more features for better accuracy
 3. Improve UI/UX
