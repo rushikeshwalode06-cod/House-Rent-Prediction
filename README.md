@@ -54,3 +54,5 @@ R² Score
 ## 📌 Conclusion
 
 This project demonstrates how machine learning can be effectively used to predict house rent based on various factors like location, size, and amenities. The trained models provide reasonably accurate predictions, making the system useful for both tenants and property owners. With further improvements and real-world deployment, this solution can become a reliable tool for rent estimation.
+
+![ml](https://github.com/rushikeshwalode06-cod/House-Rent-Prediction/blob/main/House_image.png?raw=true)
